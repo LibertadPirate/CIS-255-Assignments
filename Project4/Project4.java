@@ -1,7 +1,7 @@
 //Christopher Kimball
 //CIS-255
 //Project4-Menu
-//Github: https://github.com/LibertadPirate/Java-Class-Assignment-Dump/blob/main/Project4.java
+//Github: https://github.com/LibertadPirate/CIS-255-Assignments/tree/main/Project4
 import java.util.Scanner;
 
 public class Project4 {
@@ -74,3 +74,4 @@ public class Project4 {
         scanner.close();
     }
 }
+
