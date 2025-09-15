@@ -1,7 +1,7 @@
 //Christopher Kimball
 //CIS-255
 //Project3
-//Github link: https://github.com/LibertadPirate/Java-Class-Assignment-Dump/blob/main/Project3.java
+//Github link: https://github.com/LibertadPirate/CIS-255-Assignments/tree/main/Project3
 
 import java.util.Scanner;
 
