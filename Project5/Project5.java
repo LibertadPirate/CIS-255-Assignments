@@ -1,7 +1,7 @@
 //Christopher Kimball
 //CIS- 255
 //Project5
-//Githublink: https://github.com/LibertadPirate/Java-Class-Assignment-Dump/tree/main/Project5
+//Githublink: https://github.com/LibertadPirate/CIS-255-Assignments/tree/main/Project5
 
 import java.util.Scanner;
 
@@ -92,4 +92,5 @@ public class Project5 {
         
         in.close();
     }
+
 }
